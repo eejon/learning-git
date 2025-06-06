@@ -64,7 +64,7 @@ git commit -am "commit message"
 
 Now that changes are committed, push them to the remote repository:
 
-```bash
+```
 git push origin main
 ```
 
